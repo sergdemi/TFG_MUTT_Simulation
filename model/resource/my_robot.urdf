@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<robot name="mutt">
+    <webots>       
+        <plugin type="model.my_robot_driver.MyRobotDriver" />
+    </webots>
+</robot>
